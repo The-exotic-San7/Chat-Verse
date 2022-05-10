@@ -6,4 +6,11 @@ React-native
 Firebase
 React-Native Gifted Chat
 
+
+# Sender-Side
 ![alt text](sender.jpeg)
+
+
+# Receiver-Side
+![alt text](Reciever.jpeg)
+
