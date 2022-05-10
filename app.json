@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "mobile",
+    "name": "chatverse",
     "slug": "mobile",
+    "description": "Chat verse",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/react-native-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/react-splash.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,9 +23,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./assets/react-native-icon.png"
+        
+      },
+      "package": "com.san7.chatverse"
     },
     "web": {
       "favicon": "./assets/favicon.png"
